@@ -11,6 +11,10 @@ Purpose: Get used to GitHub and GTK4.0
 #include <stdio.h>
 #include <stdlib.h>
 #include <gtk/gtk.h>
+
+
+// preparation for the later 
+// maybe this program will be GUI to-do-list app 
 typedef struct TASK 
 {
 	int		id;	
