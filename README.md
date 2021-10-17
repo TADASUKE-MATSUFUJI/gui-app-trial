@@ -1,6 +1,4 @@
-# gui-app-trial
-
-Trial of GUI APP development
+TRY AT GUI APP DEVELOPMENT
 
 START: 2021/10/17
 
