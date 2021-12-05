@@ -14,4 +14,4 @@ Version-01: Just display a GUI window
 
 Version-02: Two ore more widgets usage with the container widget
 
-Version-03: Under working...
+Version-03: Multi-line text edit field and Scrolling functionality
